@@ -1,0 +1,1390 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1561905,
+        "dat": "WGE",
+        "name": "8952",
+        "remark": "Radio controlled model flying as per protocol (gliders).",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.695833,
+          48.423611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565923,
+        "dat": "WGE",
+        "name": "8978",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.164167,
+          48.595278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565953,
+        "dat": "WGE",
+        "name": "8956",
+        "remark": "Radio controlled model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6075,
+          48.548889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565955,
+        "dat": "WGE",
+        "name": "8954",
+        "remark": "Radio controlled model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.306389,
+          48.576111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565927,
+        "dat": "WGE",
+        "name": "8958",
+        "remark": "Radio controlled model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7875,
+          48.1575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565929,
+        "dat": "WGE",
+        "name": "8965",
+        "remark": "Slope soaring and radio controlled model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.945833,
+          48.351944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565931,
+        "dat": "WGE",
+        "name": "8961",
+        "remark": "Slope soaring and radio controlled model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.953056,
+          48.379167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565935,
+        "dat": "WGE",
+        "name": "8975",
+        "remark": "Slope soaring ( 2 slopes on site). Radio controlled model flying.",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.240278,
+          48.216667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565569,
+        "dat": "WGE",
+        "name": "8963",
+        "remark": "Radio controlled model flying. (gliders)",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6625,
+          47.6425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1606129,
+        "dat": "WGE",
+        "name": "8309",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.140556,
+          48.648056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1609841,
+        "dat": "WGE",
+        "name": "8914",
+        "remark": "Radio controlled model flying.All models.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.783333,
+          48.073056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1562047,
+        "dat": "WGE",
+        "name": "8957",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.050556,
+          48.538889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 2321498,
+        "dat": "WGE",
+        "name": "8988",
+        "remark": "Radio controlled model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.122222,
+          48.516111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 7122717,
+        "dat": "WGE",
+        "name": "8916",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.434722,
+          47.773611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565583,
+        "dat": "WGE",
+        "name": "8973",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.168889,
+          47.9675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 16388405,
+        "dat": "WGE",
+        "name": "8927",
+        "remark": "Radio controlled model flying",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.684722,
+          48.233611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 16388350,
+        "dat": "WGE",
+        "name": "8925",
+        "remark": "Radio controlled model flying outside LF-R154",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.750556,
+          48.317778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 16388334,
+        "dat": "WGE",
+        "name": "8924",
+        "remark": "Radio controlled model flying as per protocol",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.284167,
+          48.484444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 16388292,
+        "dat": "WGE",
+        "name": "8907",
+        "remark": "Radio controlled model flying as per protocol",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168056,
+          47.934167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 16388417,
+        "dat": "WGE",
+        "name": "8929",
+        "remark": "Radio controlled model flying",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.334167,
+          48.250278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1566585,
+        "dat": "WGE",
+        "name": "8960",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.138889,
+          47.5975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1566435,
+        "dat": "WGE",
+        "name": "8953",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.923333,
+          48.056944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565575,
+        "dat": "WGE",
+        "name": "8972",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.816667,
+          48.600833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565577,
+        "dat": "WGE",
+        "name": "8971",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.103333,
+          48.443333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1562023,
+        "dat": "WGE",
+        "name": "9003",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.598611,
+          47.811944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565607,
+        "dat": "WGE",
+        "name": "8974",
+        "remark": "Radio controlled model flying as per protocol.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.856667,
+          48.5375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 20295327,
+        "dat": "WGE",
+        "name": "8416",
+        "remark": "Radio controlled model flying as per protocol",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.409444,
+          48.724722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1565899,
+        "dat": "WGE",
+        "name": "8981",
+        "remark": "Radio controlled planes and helicopters model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.163889,
+          48.188333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 29827709,
+        "dat": "WGE",
+        "name": "8947",
+        "remark": "Radio controlled model flying as per protocol (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6175,
+          47.766944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 1606137,
+        "dat": "WGE",
+        "name": "8314-1",
+        "remark": "Radio controlled model flying.",
+        "marker-color": "#00ff00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.059167,
+          47.862778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511744,
+        "dat": "WGE",
+        "name": "8553-5",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.483333,
+          48.633611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511689,
+        "dat": "WGE",
+        "name": "8551",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.617778,
+          48.533611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511654,
+        "dat": "WGE",
+        "name": "9006-3",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.350278,
+          48.650833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511634,
+        "dat": "WGE",
+        "name": "9006-2",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.317778,
+          48.666944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511620,
+        "dat": "WGE",
+        "name": "9006-1",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.300556,
+          48.666944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511544,
+        "dat": "WGE",
+        "name": "9012",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          48.850278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511751,
+        "dat": "WGE",
+        "name": "8554",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.700556,
+          48.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511738,
+        "dat": "WGE",
+        "name": "8553-4",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.483889,
+          48.634444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511699,
+        "dat": "WGE",
+        "name": "8552",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.600278,
+          48.583611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511538,
+        "dat": "WGE",
+        "name": "9009",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.350833,
+          47.868056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511724,
+        "dat": "WGE",
+        "name": "8553-2",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.450556,
+          48.634722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511718,
+        "dat": "WGE",
+        "name": "8553-1",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.417222,
+          48.633889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511666,
+        "dat": "WGE",
+        "name": "8550",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.500833,
+          48.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511518,
+        "dat": "WGE",
+        "name": "9008",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.851389,
+          47.800833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ase",
+        "id": 32511731,
+        "dat": "WGE",
+        "name": "8553-3",
+        "remark": "Radio controlled model flying (slope flight).",
+        "marker-color": "#0000ff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.466944,
+          48.634444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521230,
+        "codeId": "LF30",
+        "codeType": "AD",
+        "dat": "U",
+        "elv": null,
+        "und": null,
+        "unit": null,
+        "icao": null,
+        "name": "SAINT BRIEUC",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.805278,
+          48.513056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1522146,
+        "codeId": "LFH36",
+        "codeType": "HP",
+        "dat": "U",
+        "elv": 0,
+        "und": null,
+        "unit": "FT",
+        "icao": null,
+        "name": "BREST AMIRAUTE",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.491667,
+          48.380556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1522314,
+        "codeId": "LFH182",
+        "codeType": "HP",
+        "dat": "U",
+        "elv": 354,
+        "und": null,
+        "unit": "FT",
+        "icao": null,
+        "name": "SAINT BRIEUC CENTRE HOSPITALIER",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.751111,
+          48.490833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1522532,
+        "codeId": "LFH328",
+        "codeType": "HP",
+        "dat": "U",
+        "elv": 100,
+        "und": null,
+        "unit": "FT",
+        "icao": null,
+        "name": "LORIENT BRETAGNE SUD CENTRE HOSPITALIER",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.356111,
+          47.753611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521218,
+        "codeId": "LFEQ",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 38,
+        "und": null,
+        "unit": "FT",
+        "icao": "None",
+        "name": "QUIBERON",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.101667,
+          47.481389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521378,
+        "codeId": "LFEB",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 393,
+        "und": 159,
+        "unit": "FT",
+        "icao": "None",
+        "name": "DINAN TRELIVAN",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.103333,
+          48.443333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521814,
+        "codeId": "LFXQ",
+        "codeType": "AD",
+        "dat": "U",
+        "elv": 499,
+        "und": null,
+        "unit": "FT",
+        "icao": "None",
+        "name": "COETQUIDAN",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.181944,
+          47.943889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521150,
+        "codeId": "LFED",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 406,
+        "und": 161,
+        "unit": "FT",
+        "icao": "None",
+        "name": "PONTIVY",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.923333,
+          48.056944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521130,
+        "codeId": "LFES",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 574,
+        "und": 163,
+        "unit": "FT",
+        "icao": "None",
+        "name": "GUISCRIFF SCAER",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.664028,
+          48.053722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1522290,
+        "codeId": "LFH172",
+        "codeType": "HP",
+        "dat": "U",
+        "elv": 182,
+        "und": null,
+        "unit": "FT",
+        "icao": null,
+        "name": "QUIMPER CORNOUAILLES",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.095833,
+          47.985278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 16138132,
+        "codeId": "LFH37",
+        "codeType": "HP",
+        "dat": "WGE",
+        "elv": 121,
+        "und": null,
+        "unit": "FT",
+        "icao": null,
+        "name": "BREST CENTRE HOSPITALIER LA CAVALE BLANCHE",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.529444,
+          48.403333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1522242,
+        "codeId": "LFH118",
+        "codeType": "HP",
+        "dat": "U",
+        "elv": 92,
+        "und": null,
+        "unit": "FT",
+        "icao": null,
+        "name": "LANNION CENTRE HOSPITALIER",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.465278,
+          48.722778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1522336,
+        "codeId": "LFH222",
+        "codeType": "HP",
+        "dat": "U",
+        "elv": 33,
+        "und": null,
+        "unit": "FT",
+        "icao": null,
+        "name": "VANNES - CENTRE HOSPITALIER BRETAGNE ATLANTIQUE.",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.747222,
+          47.663889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521776,
+        "codeId": "LFRP",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 237,
+        "und": 159,
+        "unit": "FT",
+        "icao": "None",
+        "name": "PLOERMEL LOYAT",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.378694,
+          48.001833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521172,
+        "codeId": "LFEA",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 177,
+        "und": 160,
+        "unit": "FT",
+        "icao": "None",
+        "name": "BELLE ILE",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.198889,
+          47.326111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521080,
+        "codeId": "LFRL",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 287,
+        "und": 166,
+        "unit": "FT",
+        "icao": "None",
+        "name": "LANVEOC POULMIC",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.443667,
+          48.282528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521014,
+        "codeId": "LFRT",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 452,
+        "und": 163,
+        "unit": "FT",
+        "icao": "None",
+        "name": "SAINT BRIEUC ARMOR",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.856528,
+          48.537472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1520986,
+        "codeId": "LFRQ",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 297,
+        "und": 164,
+        "unit": "FT",
+        "icao": "None",
+        "name": "QUIMPER PLUGUFFAN",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.167861,
+          47.974944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1521032,
+        "codeId": "LFRV",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 440,
+        "und": 159,
+        "unit": "FT",
+        "icao": "None",
+        "name": "VANNES MEUCON",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.723361,
+          47.719222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1520944,
+        "codeId": "LFRH",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 159,
+        "und": 161,
+        "unit": "FT",
+        "icao": "None",
+        "name": "LORIENT LANN BIHOUE",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.433889,
+          47.750833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1520968,
+        "codeId": "LFRU",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 277,
+        "und": 164,
+        "unit": "FT",
+        "icao": "None",
+        "name": "MORLAIX PLOUJEAN",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.816667,
+          48.600722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1520926,
+        "codeId": "LFRO",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 290,
+        "und": 164,
+        "unit": "FT",
+        "icao": "None",
+        "name": "LANNION",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.471944,
+          48.754444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1520928,
+        "codeId": "LFRJ",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 348,
+        "und": 165,
+        "unit": "FT",
+        "icao": "None",
+        "name": "LANDIVISIAU",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.151639,
+          48.53025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1520900,
+        "codeId": "LFRD",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 219,
+        "und": 159,
+        "unit": "FT",
+        "icao": "None",
+        "name": "DINARD PLEURTUIT SAINT MALO",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.079944,
+          48.587694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "typ": "Ahp",
+        "id": 1520860,
+        "codeId": "LFRB",
+        "codeType": "AD",
+        "dat": "WGE",
+        "elv": 325,
+        "und": 166,
+        "unit": "FT",
+        "icao": "None",
+        "name": "BREST BRETAGNE",
+        "marker-color": "#ff0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42175,
+          48.447111
+        ]
+      }
+    }
+  ]
+}
